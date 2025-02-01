@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "progresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/relatedcode/ProgressHUD",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3ae24c855fff8fd40924a121ab315c125720d917"
+      }
+    },
+    {
+      "identity" : "restful-api",
+      "kind" : "remoteSourceControl",
+      "location" : "https://bitbucket.org/sinakhanjani/restful-api",
+      "state" : {
+        "branch" : "Release",
+        "revision" : "bf438ead2215eb0d0027874235874559b2c0fb2a"
+      }
+    },
+    {
+      "identity" : "simplecheckbox",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BeauNouvelle/SimpleCheckbox.git",
+      "state" : {
+        "revision" : "96cf25c98bd8e595018df6a2466a9a1eb348fdb8",
+        "version" : "2.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
