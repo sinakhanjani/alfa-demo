@@ -13,6 +13,12 @@ With this app, you can utilize all the features of Alfa GPS trackers, including:
 - 📍 **Real-time location tracking** of a vehicle or individual.
 - 🗺 **Viewing past traveled routes** of the tracker.
 
+## 📸 Screenshots
+Here are some screenshots of the project:
+![Screenshot 1](mnt/1.jpeg)
+![Screenshot 2](mnt/2.jpeg)
+![Screenshot 3](mnt/3.jpeg)
+
 ## 📲 Download the App
 
 - **iOS:** [Download from iApps](https://iapps.ir/app/%D8%B1%D8%AF%DB%8C%D8%A7%D8%A8-%D8%A2%D9%84%D9%81%D8%A7/400497826)
